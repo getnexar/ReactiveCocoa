@@ -1,3 +1,4 @@
+#### TEMPORAL SOLUTION ####
 ### FORKED in order to solve ###
 https://github.com/ReactiveCocoa/ReactiveCocoa/issues/2495
 
