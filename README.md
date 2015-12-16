@@ -1,3 +1,6 @@
+### FORKED in order to solve ###
+https://github.com/ReactiveCocoa/ReactiveCocoa/issues/2495
+
 ![](Logo/header.png)
 
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage) [![GitHub release](https://img.shields.io/github/release/ReactiveCocoa/ReactiveCocoa.svg)](https://github.com/ReactiveCocoa/ReactiveCocoa/releases)
